@@ -4,7 +4,7 @@ tmp/
 *.tmp
 *.bak
 *.swp
-*.class
+
 local.properties
 .settings/
 .loadpath
@@ -17,6 +17,11 @@ local.properties
 *.launch
 
 .target
+
+target/
+build-tools/target/
+client/target/
+server/target/
 
 # Tern plugin
 .tern-project
