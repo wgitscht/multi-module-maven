@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: net.gitschthaler.client.HelloEuropeBeanTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.707 sec - in net.gitschthaler.client.HelloEuropeBeanTest
