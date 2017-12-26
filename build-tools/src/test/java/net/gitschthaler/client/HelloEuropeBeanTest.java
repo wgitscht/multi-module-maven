@@ -3,16 +3,11 @@ package net.gitschthaler.client;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.Test;
-import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
 
-import net.gitschthaler.client.HelloWorldClientBean;
+import net.gitschthaler.buildtools.IntegrationTest;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest
-public class HelloEuropeBeanTest {
+public class HelloEuropeBeanTest extends IntegrationTest {
 
 	@Autowired
 	HelloWorldClientBean hello;

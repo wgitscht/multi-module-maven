@@ -6,13 +6,4 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>server</artifactId>
-
- 	<dependencies>
-        <dependency>
-            <groupId>net.gitschthaler</groupId>
-            <artifactId>build-tools</artifactId>
-             <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-
 </project>
